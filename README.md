@@ -1,2 +1,2 @@
 # ucintro
-Czestochowa 09'22
+Nucleo-L476RG + Ka-Nucleo-Multisensor workshop
