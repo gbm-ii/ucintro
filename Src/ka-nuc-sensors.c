@@ -1,5 +1,5 @@
 //code fragments for Ka-Nucleo_multisensor sensors
-#include "LIS35DH.h"
+#include "LIS35DE.h"
 #include "LPS25HB.h"
 
 //LIS35DH accelerometer commands
